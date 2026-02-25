@@ -1,0 +1,20 @@
+name: "Zotero"
+name_en: "Zotero"
+website: "https://www.zotero.org"
+description: "开源文献管理软件，支持自动提取元数据、管理注释和笔记，拥有活跃的社区和丰富的插件生态"
+features: "开源, 免费, 本地存储, 云同步, 浏览器插件, 社区活跃, 跨平台"
+type: "Desktop + Web"
+license: "AGPL-3.0"
+github: "https://github.com/zotero/zotero"
+category: "本地文献管理"
+rating: 5
+installation: "Desktop App / Web / Browser Extension"
+pros:
+  - "完全开源，源代码透明"
+  - "功能强大，支持PDF注释"
+  - "社区活跃，插件丰富"
+  - "云同步功能便捷"
+cons:
+  - "学习曲线较陡"
+  - "UI 设计略显老旧"
+updated: "2026-02-25"
